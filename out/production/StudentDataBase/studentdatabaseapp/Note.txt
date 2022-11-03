@@ -1,0 +1,8 @@
+create constructor
+work on the student name and grade
+GENERATE iD
+when creating id it better to use static because it will be used for every object;
+we can staart id 10001 then we can do id++.
+for this we gonna create five unique id with the first digit of it's grade year.
+
+
